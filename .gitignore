@@ -1,6 +1,9 @@
 .codeium/
 .lightning_studio/
+.idea/
 test
 test_2
 test_cuda
 MatrixAdditionAndAssignment/matrix_addition
+main.py
+
